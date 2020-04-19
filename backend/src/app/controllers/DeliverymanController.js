@@ -130,6 +130,7 @@ class DeliverymanController {
 
     return res.json({ success: 'Entregador excluído com sucesso!' });
   }
+
 }
 
 export default new DeliverymanController();
